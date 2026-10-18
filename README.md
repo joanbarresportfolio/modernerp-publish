@@ -1,6 +1,6 @@
 # ModernERP: publicaciones
 
-Vídeos e imágenes de ModernERP para las redes sociales. Este repositorio es **público** a propósito: Metricool descarga cada archivo desde su enlace público (`raw.githubusercontent.com`) para publicarlo en Instagram, Facebook y YouTube.
+Vídeos e imágenes de ModernERP para las redes sociales, y los artículos de la web. Este repositorio es **público** a propósito: Metricool descarga cada archivo desde su enlace público (`raw.githubusercontent.com`) para publicarlo en Instagram, Facebook y YouTube.
 
 ## Normas
 
@@ -14,7 +14,11 @@ Vídeos e imágenes de ModernERP para las redes sociales. Este repositorio es **
 ```
 media/AAAA-MM/AAAA-MM-DD-nombre-corto.mp4   vídeos verticales 1080x1920
 media/AAAA-MM/AAAA-MM-DD-nombre-corto-1.png carruseles e imágenes (1080x1350 o 1080x1080)
+articulos/                                  artículos de modern-erp.es/articulos/ (decisión 42)
+articulos/imagenes/                         sus imágenes
 ```
+
+**Artículos.** El servidor lee la carpeta `articulos/` y los publica tal cual en la web, así que aquí solo entra lo que Joan ya ha aprobado (y LEGALIDAD, si lleva afirmaciones legales, fiscales o comparativas). Los borradores se preparan en `modern-software/docs/marketing/articulos/`.
 
 Enlace público de cada archivo:
 
