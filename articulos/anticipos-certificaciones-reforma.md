@@ -7,7 +7,7 @@ autor_cargo: fundador de ModernERP
 autor_url: https://modern-erp.es/articulos/sobre-joan/
 slug: anticipos-certificaciones-reforma
 etiquetas: [Facturas, Obras, Cobros]
-imagen: imagenes/cobros-pendientes-modernerp.webp
+imagen: imagenes/cobros-pendientes-modernerp-v2.webp
 imagen_alt: Pantalla de cobros de ModernERP con el total pendiente, lo vencido y lo que vence en 30 días, y la lista de facturas pendientes de cobro.
 metodo: Redactado con ayuda de inteligencia artificial y revisado por Joan Barres Sabater, fundador de ModernERP. Datos de ejemplo en las capturas y en las tablas.
 ---
@@ -75,7 +75,7 @@ Dos consejos:
 
 ## Cómo se ve en un programa de gestión
 
-![Cobros pendientes en ModernERP](imagenes/cobros-pendientes-modernerp.webp "Captura real del programa con una empresa de ejemplo. Los nombres y los importes son inventados.")
+![Cobros pendientes en ModernERP](imagenes/cobros-pendientes-modernerp-v2.webp "Captura real del programa con una empresa de ejemplo. Los nombres y los importes son inventados.")
 
 En ModernERP, desde la obra pulsas «Certificar» y el programa prepara la relación valorada: por cada partida, lo ejecutado a origen según el avance, lo certificado antes y lo de esta certificación, con la parte del anticipo descontada. Cada factura crea sus cobros pendientes, y ves en una pantalla lo que te deben, lo vencido y lo que vence en los próximos 30 días. Si pones una retención de garantía, queda como un cobro pendiente con su fecha.
 

@@ -7,7 +7,7 @@ autor_cargo: fundador de ModernERP
 autor_url: https://modern-erp.es/articulos/sobre-joan/
 slug: verifactu-2027-o-2028
 etiquetas: [Verifactu, Facturas]
-imagen: imagenes/factura-verifactu-modernerp.webp
+imagen: imagenes/factura-verifactu-modernerp-v2.webp
 imagen_alt: Factura de una obra en ModernERP con sus totales y el apartado Verifactu, que muestra el estado del envío a Hacienda y el enlace para comprobarla en la Agencia Tributaria.
 metodo: Redactado con ayuda de inteligencia artificial y revisado por Joan Barres Sabater, fundador de ModernERP. Datos de ejemplo en las capturas.
 ---
@@ -61,7 +61,7 @@ La ley prevé sanciones para quien use programas que no cumplan. Pero el motivo 
 
 ## Cómo se ve una factura con Verifactu
 
-![Factura de una obra en ModernERP con el apartado Verifactu](imagenes/factura-verifactu-modernerp.webp "Captura real del programa con una empresa de ejemplo. Como es de ejemplo, la factura va al entorno de pruebas de Hacienda y no al real. Los datos son inventados.")
+![Factura de una obra en ModernERP con el apartado Verifactu](imagenes/factura-verifactu-modernerp-v2.webp "Captura real del programa con una empresa de ejemplo. Como es de ejemplo, la factura va al entorno de pruebas de Hacienda y no al real. Los datos son inventados.")
 
 En la factura se ve si ya se ha enviado a Hacienda y si la ha aceptado, la huella que la encadena con la anterior y el enlace para comprobarla en la web de la Agencia Tributaria.
 

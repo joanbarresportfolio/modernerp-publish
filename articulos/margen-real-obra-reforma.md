@@ -7,7 +7,7 @@ autor_cargo: fundador de ModernERP
 autor_url: https://modern-erp.es/articulos/sobre-joan/
 slug: margen-real-obra-reforma
 etiquetas: [Obras, Costes, Presupuestos]
-imagen: imagenes/costes-de-una-obra-modernerp.webp
+imagen: imagenes/costes-de-una-obra-modernerp-v2.webp
 imagen_alt: Pestaña de costes de una obra en ModernERP, con lo previsto, lo real y la desviación de mano de obra, material, maquinaria, subcontratas y otros, y abajo el margen actual y el margen neto.
 metodo: Redactado con ayuda de inteligencia artificial y revisado por Joan Barres Sabater, fundador de ModernERP. Datos de ejemplo en las capturas y en las tablas.
 ---
@@ -87,7 +87,7 @@ Con 5.500 € de gastos fijos al mes y un margen del 25 %, necesitas unos 22.000
 
 ## Cómo se ve en un programa de gestión
 
-![Costes de una obra en ModernERP: previsto, real y desviación por tipo de coste](imagenes/costes-de-una-obra-modernerp.webp "Captura real del programa con una empresa de ejemplo. Los importes son inventados.")
+![Costes de una obra en ModernERP: previsto, real y desviación por tipo de coste](imagenes/costes-de-una-obra-modernerp-v2.webp "Captura real del programa con una empresa de ejemplo. Los importes son inventados.")
 
 En ModernERP, cada obra suma sola lo que se gasta: las horas que fichan tus trabajadores en esa obra, los tickets y facturas de material y las subcontratas. Lo compara con lo previsto para lo que llevas hecho y te enseña el margen actual y la desviación por tipo de coste. Si una obra empieza a gastar más de lo previsto, te avisa en la pantalla de inicio.
 

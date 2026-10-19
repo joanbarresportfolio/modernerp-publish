@@ -7,8 +7,8 @@ autor_cargo: fundador de ModernERP
 autor_url: https://modern-erp.es/articulos/sobre-joan/
 slug: excel-o-programa-de-presupuestos
 etiquetas: [Presupuestos, Excel, Obras]
-imagen: imagenes/control-costes-obras-modernerp.webp
-imagen_alt: Pantalla de control de costes de ModernERP con las obras de mejor y peor margen y una tabla con el avance, la venta prevista y la producción de cada obra.
+imagen: imagenes/control-costes-obras-modernerp-v2.webp
+imagen_alt: Pantalla de control de costes de ModernERP con las obras de mejor y peor margen, de una empresa de ejemplo.
 metodo: Redactado con ayuda de inteligencia artificial y revisado por Joan Barres Sabater, fundador de ModernERP. Datos de ejemplo en las capturas.
 ---
 
@@ -52,7 +52,7 @@ Además, con Verifactu, si haces tus facturas con un programa, ese programa tend
 
 De las seis señales, la cuarta es la que más dinero cuesta. Una obra puede ir bien de plazo y mal de dinero: un material que subió, unas horas de más, una subcontrata que no estaba prevista. Si solo lo ves al terminar, ya no hay nada que hacer.
 
-![Control de costes de las obras en ModernERP](imagenes/control-costes-obras-modernerp.webp "Captura real del programa con una empresa de ejemplo. Las obras y los importes son inventados.")
+![Control de costes de las obras en ModernERP](imagenes/control-costes-obras-modernerp-v2.webp "Captura real del programa con una empresa de ejemplo. Las obras y los importes son inventados.")
 
 En ModernERP, cada obra suma lo que se gasta de verdad (material, horas de tu gente y subcontratas) y lo compara con lo que presupuestaste. Si una obra empieza a gastar más de lo previsto, te avisa en la pantalla de inicio, a tiempo para corregirlo.
 

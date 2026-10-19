@@ -7,7 +7,7 @@ autor_cargo: fundador de ModernERP
 autor_url: https://modern-erp.es/articulos/sobre-joan/
 slug: presupuesto-reforma-por-partidas
 etiquetas: [Presupuestos, Obras]
-imagen: imagenes/presupuesto-por-partidas-modernerp.webp
+imagen: imagenes/presupuesto-por-partidas-modernerp-v2.webp
 imagen_alt: Presupuesto en ModernERP con los capítulos Demoliciones, Albañilería y Fontanería, y cada partida con su unidad, su cantidad y su precio.
 metodo: Redactado con ayuda de inteligencia artificial y revisado por Joan Barres Sabater, fundador de ModernERP. Datos de ejemplo en las capturas y en las tablas.
 ---
@@ -90,7 +90,7 @@ Al total se le suma el IVA que corresponda a esa obra.
 
 ## Cómo se ve en un programa de presupuestos
 
-![Presupuesto por capítulos y partidas en ModernERP](imagenes/presupuesto-por-partidas-modernerp.webp "Captura real del programa con una empresa de ejemplo. Los importes son inventados.")
+![Presupuesto por capítulos y partidas en ModernERP](imagenes/presupuesto-por-partidas-modernerp-v2.webp "Captura real del programa con una empresa de ejemplo. Los importes son inventados.")
 
 En ModernERP eliges las partidas de tu banco de precios, pones las mediciones y el programa calcula el total de cada capítulo y el margen del presupuesto. Si cambias un presupuesto después de enviarlo, se guarda como una versión nueva. Y cuando el cliente lo acepta, lo conviertes en obra con un botón, sin volver a escribir nada. Puedes traer tu banco de precios desde Excel o desde archivos BC3, el formato que exportan Presto, Arquímedes o Menfis.
 
