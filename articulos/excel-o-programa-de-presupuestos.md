@@ -66,5 +66,5 @@ En ModernERP, cada obra suma lo que se gasta de verdad (material, horas de tu ge
 Si quieres ver cómo se hace un presupuesto por partidas, tienes la guía paso a paso en [cómo hacer un presupuesto de reforma por partidas](/articulos/presupuesto-reforma-por-partidas/).
 
 <!-- B -->
-ModernERP tiene un mes de prueba gratis, sin tarjeta y sin permanencia. Te pasamos tus clientes, proveedores, empleados y precios desde tus Excel, gratis. El plan Básico cuesta 39 € al mes, con el IVA incluido. Mira los [planes y precios](/#precios) o [pide tu demo](/#demo).
+ModernERP tiene un mes de prueba gratis, sin tarjeta y sin permanencia. Tus clientes, proveedores, empleados y precios se pasan desde tus Excel con la importación, que te avisa de los errores antes de guardar. El plan Básico cuesta 39 € al mes, con el IVA incluido. Mira los [planes y precios](/#precios) o [pide tu demo](/#demo).
 <!-- /B -->
