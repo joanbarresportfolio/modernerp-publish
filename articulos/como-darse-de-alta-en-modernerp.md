@@ -2,14 +2,12 @@
 titulo: Cómo darte de alta en ModernERP y empezar, paso a paso
 descripcion: Regístrate en un minuto, confirma tu email y deja tu empresa lista con la configuración guiada. Prueba gratis un mes, sin tarjeta ni permanencia.
 fecha: 2026-10-27
-autor: Joan Barres Sabater
-autor_cargo: fundador de ModernERP
-autor_url: https://modern-erp.es/articulos/sobre-joan/
+autor: Equipo de ModernERP
 slug: como-darse-de-alta-en-modernerp
 etiquetas: [Empezar, Prueba gratis, Configuración, Importar datos]
 imagen: imagenes/registro-modernerp.webp
 imagen_alt: Formulario de registro de ModernERP, con los campos de nombre, email, contraseña, empresa, NIF, actividad y plan que quieres probar.
-metodo: Redactado con ayuda de inteligencia artificial y revisado por Joan Barres Sabater, fundador de ModernERP. Capturas de la empresa de ejemplo, con datos inventados.
+metodo: Redactado con ayuda de inteligencia artificial por el equipo de ModernERP. Capturas de la empresa de ejemplo, con datos inventados.
 ---
 
 **Para darte de alta en ModernERP, entra en [modern-erp.es](/), pulsa «Regístrate y pruébalo gratis» y rellena un formulario corto con tu nombre, tu email, el nombre y el NIF de tu empresa y el plan que quieres probar. Entras al momento, sin esperar a nadie.** La prueba dura un mes, es gratis y no pide tarjeta ni permanencia. Después, la **configuración guiada** te deja la empresa lista en 7 pasos, y puedes hacerla de una vez o en varios días.
@@ -120,7 +118,7 @@ La prueba sirve si la usas con algo tuyo. Elige una de estas cosas para los prim
 - **Una obra** en marcha, con tu equipo fichando desde el móvil (en [control horario en obra](/articulos/control-horario-trabajadores-obra/) se explica qué pide la ley).
 - **Una foto a un ticket** de material desde el móvil, para ver cómo se apunta el gasto en su obra.
 
-Un consejo de Joan: no intentes configurarlo todo antes de usarlo. Haz el registro y los pasos 1 y 2 de la configuración, y prueba con un presupuesto real ese mismo día. Lo demás lo vas completando cuando lo necesites.
+Un consejo: no intentes configurarlo todo antes de usarlo. Haz el registro y los pasos 1 y 2 de la configuración, y prueba con un presupuesto real ese mismo día. Lo demás lo vas completando cuando lo necesites.
 
 ## Verifactu: facturas de prueba y facturas reales
 
@@ -139,7 +137,7 @@ La norma fija 2027, pero Hacienda ha anunciado que lo aplaza hasta octubre de 20
 
 ## Si prefieres que te lo enseñemos
 
-Si no quieres hacerlo solo, te lo enseñamos en una videollamada de 20 minutos, con una obra de ejemplo o con algo tuyo. Escríbenos por WhatsApp desde la [portada](/) o al email [contacto@modern-erp.es](mailto:contacto@modern-erp.es), de lunes a viernes de 9 a 19 h. Y si tienes tus datos en Excel desordenados, te ayudamos a pasarlos.
+Si no quieres hacerlo solo, la configuración guiada te lleva paso a paso, y si tienes tus clientes, tus proveedores o tus precios en Excel, los importas en Ajustes › Importar datos con una plantilla que te avisa de los errores antes de guardar nada.
 
 ## Preguntas frecuentes
 

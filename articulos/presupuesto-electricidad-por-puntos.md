@@ -2,14 +2,12 @@
 titulo: Presupuesto de electricidad por puntos, con un ejemplo
 descripcion: Qué es un punto, qué incluye su precio, cuántos puntos pide el REBT en cada estancia y un ejemplo de presupuesto de la instalación de un piso.
 fecha: 2026-10-27
-autor: Joan Barres Sabater
-autor_cargo: fundador de ModernERP
-autor_url: https://modern-erp.es/articulos/sobre-joan/
+autor: Equipo de ModernERP
 slug: presupuesto-electricidad-por-puntos
 etiquetas: [Presupuestos, Electricidad, Instaladores, Banco de precios]
 imagen: imagenes/presupuesto-por-partidas-modernerp-v2.webp
 imagen_alt: Presupuesto por capítulos y partidas en ModernERP, con la cantidad, el precio, el coste y el margen de cada partida.
-metodo: Redactado con ayuda de inteligencia artificial y revisado por Joan Barres Sabater, fundador de ModernERP. Mínimos del REBT consultados en el BOE el 27 de octubre de 2026. Precios de ejemplo.
+metodo: Redactado con ayuda de inteligencia artificial por el equipo de ModernERP. Mínimos del REBT consultados en el BOE el 27 de octubre de 2026. Precios de ejemplo.
 ---
 
 **Presupuestar la electricidad por puntos es poner un precio cerrado a cada punto de luz, cada enchufe y cada toma especial, con el cable, el tubo, la caja, el mecanismo y la mano de obra dentro, y multiplicarlo por cuántos hay.** Se suman aparte el cuadro, las ayudas de albañilería y lo que no va en ningún punto. Así el cliente entiende el presupuesto, tú lo haces en minutos y, si cambia algo, solo cambias una cantidad.

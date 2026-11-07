@@ -2,14 +2,12 @@
 titulo: IVA en reformas de vivienda: ¿10 % o 21 %?
 descripcion: Los tres requisitos para aplicar el IVA del 10 % en una reforma de vivienda, cómo calcular el 40 % de materiales y lo que cambia el 1 de diciembre de 2026.
 fecha: 2026-10-27
-autor: Joan Barres Sabater
-autor_cargo: fundador de ModernERP
-autor_url: https://modern-erp.es/articulos/sobre-joan/
+autor: Equipo de ModernERP
 slug: iva-reformas-vivienda-10
 etiquetas: [IVA, Facturas, Impuestos, Obras]
 imagen: imagenes/factura-verifactu-modernerp-v2.webp
 imagen_alt: Factura de una obra de pintura de vivienda en ModernERP, con todos los conceptos al IVA del 10 % y el total.
-metodo: Redactado con ayuda de inteligencia artificial y revisado por Joan Barres Sabater, fundador de ModernERP. Texto de la ley consultado en el BOE el 27 de octubre de 2026. Datos de ejemplo en la captura.
+metodo: Redactado con ayuda de inteligencia artificial por el equipo de ModernERP. Texto de la ley consultado en el BOE el 27 de octubre de 2026. Datos de ejemplo en la captura.
 ---
 
 **Una reforma en una vivienda lleva el IVA del 10 % cuando se cumplen tres requisitos a la vez: el cliente es un particular que usa la vivienda para sí (o una comunidad de propietarios), la vivienda se terminó o se rehabilitó hace al menos dos años, y los materiales que pones tú no cuestan más del 40 % de la base imponible. Si falla uno solo, la factura va al 21 %.** Lo dice el [artículo 91.Uno.2.10.º de la Ley del IVA](https://www.boe.es/buscar/act.php?id=BOE-A-1992-28740#a91).
