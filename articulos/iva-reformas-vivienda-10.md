@@ -2,6 +2,7 @@
 titulo: IVA en reformas de vivienda: ¿10 % o 21 %?
 descripcion: Los tres requisitos para aplicar el IVA del 10 % en una reforma de vivienda, cómo calcular el 40 % de materiales y lo que cambia el 1 de diciembre de 2026.
 fecha: 2026-10-27
+actualizado: 2026-11-12 17:00
 autor: Equipo de ModernERP
 slug: iva-reformas-vivienda-10
 etiquetas: [IVA, Facturas, Impuestos, Obras]
@@ -12,7 +13,7 @@ metodo: Redactado con ayuda de inteligencia artificial por el equipo de ModernER
 
 **Una reforma en una vivienda lleva el IVA del 10 % cuando se cumplen tres requisitos a la vez: el cliente es un particular que usa la vivienda para sí (o una comunidad de propietarios), la vivienda se terminó o se rehabilitó hace al menos dos años, y los materiales que pones tú no cuestan más del 40 % de la base imponible. Si falla uno solo, la factura va al 21 %.** Lo dice el [artículo 91.Uno.2.10.º de la Ley del IVA](https://www.boe.es/buscar/act.php?id=BOE-A-1992-28740#a91).
 
-Ojo con las fechas: el [Real Decreto-ley 29/2026](https://www.boe.es/buscar/act.php?id=BOE-A-2026-20823) cambia este artículo **a partir del 1 de diciembre de 2026**, pero todavía tiene que convalidarlo el Congreso. Lo explicamos más abajo. Este artículo recoge el texto del BOE a 27 de octubre de 2026.
+Ojo con las fechas: el [Real Decreto-ley 29/2026](https://www.boe.es/buscar/act.php?id=BOE-A-2026-20823) cambia este artículo **a partir del 1 de diciembre de 2026**, y ya está convalidado: lo aprobó la Diputación Permanente del Congreso el 12 de noviembre de 2026. Lo explicamos más abajo. Este artículo recoge el texto del BOE a 27 de octubre de 2026 y la convalidación del 12 de noviembre.
 
 ## Los tres requisitos del IVA del 10 % en una reforma
 
@@ -39,14 +40,14 @@ En el ejemplo B se pasa del 40 %, así que no se aplica el 10 % a ninguna parte 
 
 Un consejo práctico: si el cliente compra él mismo los azulejos o los sanitarios, ese material no cuenta como tuyo. Déjalo escrito en el presupuesto.
 
-## Lo que cambia el 1 de diciembre de 2026 (si se convalida)
+## Lo que cambia el 1 de diciembre de 2026
 
 El [Real Decreto-ley 29/2026, de 6 de octubre](https://www.boe.es/buscar/act.php?id=BOE-A-2026-20823), sobre vivienda, reescribe este artículo con efectos desde el 1 de diciembre de 2026. Los tres requisitos siguen, y hay dos novedades:
 
 1. **Viviendas de alquiler.** El 10 % se aplica también cuando la vivienda se destina a alquilarla como vivienda habitual, «cualquiera que sea la condición del arrendador». Hoy, la reforma que encarga el dueño de un piso alquilado no cumple el requisito del uso particular.
 2. **Forma de pago.** El 10 % solo se aplica si el cliente paga con **tarjeta de crédito o débito, transferencia bancaria, cheque nominativo o ingreso en la cuenta** de quien hace la obra. Una reforma cobrada en efectivo iría al 21 %.
 
-**Está pendiente de convalidación.** Un real decreto-ley tiene que convalidarlo el Congreso; como las Cortes están disueltas por las elecciones del 29 de noviembre, lo vota la Diputación Permanente. Si no se convalida, queda derogado y estos cambios no se aplican. Ya pasó con el [Real Decreto-ley 26/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20266), de contenido parecido, que el Congreso no convalidó a principios de octubre de 2026. Actualizaremos este artículo el día de la votación.
+**Ya está convalidado.** Un real decreto-ley tiene que convalidarlo el Congreso; como las Cortes están disueltas por las elecciones del 29 de noviembre, lo votó la Diputación Permanente, que lo convalidó el 12 de noviembre de 2026. Así que estos cambios se aplican desde el 1 de diciembre de 2026.
 
 Si cobras anticipos o facturas en diciembre una obra que empezó antes, pregunta a tu gestoría qué tipo aplicar a cada factura.
 
@@ -56,7 +57,7 @@ Si Hacienda revisa una factura al 10 %, tendrás que demostrar que se cumplían 
 
 - Una **declaración firmada del cliente** que diga que es un particular, que usa la vivienda para sí y que la vivienda tiene más de dos años.
 - El **cálculo del 40 %**: lo que te costaron los materiales que pusiste, con sus facturas de compra.
-- Desde el 1 de diciembre de 2026, si se convalida: el **justificante del pago** por banco.
+- Desde el 1 de diciembre de 2026: el **justificante del pago** por banco.
 
 ## Cómo lo lleva ModernERP
 
@@ -82,7 +83,7 @@ Las obras de renovación y reparación que encarga la comunidad de propietarios 
 
 ### ¿Puedo cobrar en efectivo una reforma al 10 %?
 
-Hoy, la ley no pone condiciones a la forma de pago. Desde el 1 de diciembre de 2026, si se convalida el Real Decreto-ley 29/2026, el 10 % solo valdrá si te pagan por tarjeta, transferencia, cheque nominativo o ingreso en tu cuenta.
+Hoy, la ley no pone condiciones a la forma de pago. Desde el 1 de diciembre de 2026, con el Real Decreto-ley 29/2026 ya convalidado, el 10 % solo valdrá si te pagan por tarjeta, transferencia, cheque nominativo o ingreso en tu cuenta.
 
 ### ¿Y una vivienda nueva o una obra de rehabilitación completa?
 
