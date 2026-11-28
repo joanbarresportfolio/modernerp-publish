@@ -2,6 +2,7 @@
 titulo: Cómo darte de alta en ModernERP y empezar, paso a paso
 descripcion: Regístrate en un minuto, confirma tu email y deja tu empresa lista con la configuración guiada. Prueba gratis un mes, sin tarjeta ni permanencia.
 fecha: 2026-10-27
+actualizado: 2026-11-28 08:00
 autor: Equipo de ModernERP
 slug: como-darse-de-alta-en-modernerp
 etiquetas: [Empezar, Prueba gratis, Configuración, Importar datos]
@@ -126,7 +127,7 @@ Tu empresa empieza en el **entorno de pruebas** de Hacienda. Las facturas que ha
 
 Cuando quieras facturar en real, en el paso 7 de la configuración subes tu certificado digital y activas el envío real. Desde ese momento, ModernERP funciona en la modalidad VERI\*FACTU: cada factura se envía a Hacienda al momento, con tu certificado digital, y sale con su código QR. Las facturas no se pueden cambiar ni borrar: si te equivocas, haces una rectificativa o la anulas desde el propio programa.
 
-La norma fija 2027, pero Hacienda ha anunciado que lo aplaza hasta octubre de 2028. Lo explicamos en [Verifactu: ¿2027 o 2028?](/articulos/verifactu-2027-o-2028/). ModernERP cumple Verifactu: puedes ver la [declaración responsable](https://erp.modern-erp.es/declaracion-responsable).
+Verifactu será obligatorio desde el 6 de octubre de 2028, para sociedades y autónomos. Lo explicamos en [Verifactu: ¿2027 o 2028?](/articulos/verifactu-2027-o-2028/). ModernERP cumple Verifactu: puedes ver la [declaración responsable](https://erp.modern-erp.es/declaracion-responsable).
 
 ## Cuánto dura la prueba y qué pasa al acabar
 
